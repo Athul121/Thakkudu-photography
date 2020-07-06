@@ -50,7 +50,7 @@
 }
 
 body {
-  color: #777777;
+  color: #000;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 300;
@@ -790,7 +790,7 @@ h3 {
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 11px;
 }
 
 h5 {
